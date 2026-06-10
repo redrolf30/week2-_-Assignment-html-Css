@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>About Us</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>About Our Academy</h1>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="courses.html">Courses</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+<main>
+
+<section>
+
+    <h2>Who We Are</h2>
+
+    <p>We are a digital training academy focused on empowering students with tech skills.</p>
+
+    <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f" alt="Academy">
+
+    <h2>Mission</h2>
+    <p>To provide high-quality digital education.</p>
+
+    <h2>Vision</h2>
+    <p>To become a leading tech academy in Africa.</p>
+
+    <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" alt="Training">
+
+</section>
+
+</main>
+
+<footer>
+    <p>About Page</p>
+</footer>
+
+</body>
+</html>
