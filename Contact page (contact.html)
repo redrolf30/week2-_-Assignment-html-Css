@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Contact</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Contact Us</h1>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="courses.html">Courses</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+<main>
+
+<section>
+
+    <h2>Get in Touch</h2>
+
+    <p>Email: info@academy.com</p>
+    <p>Phone: +234 800 000 0000</p>
+
+    <h2>Social Media</h2>
+
+    <a href="https://facebook.com" target="_blank">Facebook</a><br>
+    <a href="https://twitter.com" target="_blank">Twitter</a><br>
+    <a href="https://instagram.com" target="_blank">Instagram</a>
+
+    <h2>Contact Form</h2>
+
+    <form>
+        <input type="text" placeholder="Your Name"><br><br>
+        <input type="email" placeholder="Your Email"><br><br>
+        <textarea placeholder="Your Message"></textarea><br><br>
+        <button type="submit">Send</button>
+    </form>
+
+</section>
+
+</main>
+
+<footer>
+    <p>Contact Page</p>
+</footer>
+
+</body>
+</html>
