@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Courses</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Our Courses</h1>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="courses.html">Courses</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+<main>
+
+<section class="grid">
+
+    <div class="card">
+        <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085" alt="Web Development">
+        <h3>Web Development</h3>
+        <p>Learn HTML, CSS and JavaScript.</p>
+    </div>
+
+    <div class="card">
+        <img src="https://images.unsplash.com/photo-1522542550221-31fd19575a2d" alt="Graphics Design">
+        <h3>Graphics Design</h3>
+        <p>Learn Photoshop and branding.</p>
+    </div>
+
+    <div class="card">
+        <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71" alt="Data Analysis">
+        <h3>Data Analysis</h3>
+        <p>Learn Excel and Python.</p>
+    </div>
+
+</section>
+
+</main>
+
+<footer>
+    <p>Courses Page</p>
+</footer>
+
+</body>
+</html>
